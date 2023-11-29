@@ -10,7 +10,6 @@ const config: AvatarCreatorConfig = {
   clearCache: true,
   bodyType: "fullbody",
   quickStart: false,
-  language: "en",
 };
 
 const style = { width: "100%", height: "100vh", border: "none" };
